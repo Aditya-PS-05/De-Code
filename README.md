@@ -1,5 +1,5 @@
 ### client side code
-https://github.com/Hyphenhypen/De-Code-client
+https://github.com/Aditya-PS-05/De-Code-client
 
 ### steps to run the repository
 1.) Clone the two repositories in a folder 
