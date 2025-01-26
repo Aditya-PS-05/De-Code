@@ -50,10 +50,10 @@
           <mxGeometry x="98" y="248.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-13" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="170" y="430" width="50" height="50" as="geometry" />
+          <mxGeometry x="180" y="390" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="336.5" y="420" width="60" height="60" as="geometry" />
+          <mxGeometry x="336.5" y="390" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.479;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="J74Sf37dvSkozefG90Eq-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -63,8 +63,8 @@
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="449.66" as="sourcePoint" />
-            <mxPoint x="322" y="449.66" as="targetPoint" />
+            <mxPoint x="230" y="419.66" as="sourcePoint" />
+            <mxPoint x="322" y="419.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cache_node;" vertex="1" parent="1">
@@ -76,11 +76,11 @@
             <mxPoint x="148" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J74Sf37dvSkozefG90Eq-21" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_auth;" vertex="1" parent="1">
-          <mxGeometry x="290" y="300" width="60" height="54.6" as="geometry" />
-        </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-22" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_auth;" vertex="1" parent="1">
           <mxGeometry x="28" y="60" width="60" height="54.6" as="geometry" />
+        </mxCell>
+        <mxCell id="J74Sf37dvSkozefG90Eq-23" value="&lt;div&gt;DAuth&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="21" y="28" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
