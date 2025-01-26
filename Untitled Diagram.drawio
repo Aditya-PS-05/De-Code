@@ -50,25 +50,31 @@
           <mxGeometry x="98" y="248.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-13" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="38" y="430" width="50" height="50" as="geometry" />
+          <mxGeometry x="170" y="430" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="208" y="430" width="60" height="60" as="geometry" />
+          <mxGeometry x="336.5" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J74Sf37dvSkozefG90Eq-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="J74Sf37dvSkozefG90Eq-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.479;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="J74Sf37dvSkozefG90Eq-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="420" as="sourcePoint" />
-            <mxPoint x="60" y="333" as="targetPoint" />
+            <mxPoint x="58.66" y="527" as="sourcePoint" />
+            <mxPoint x="58.66" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="98" y="460" as="sourcePoint" />
-            <mxPoint x="190" y="460" as="targetPoint" />
+            <mxPoint x="230" y="449.66" as="sourcePoint" />
+            <mxPoint x="322" y="449.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cache_node;" vertex="1" parent="1">
           <mxGeometry x="30" y="540" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="J74Sf37dvSkozefG90Eq-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.879;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.13;exitY=-0.052;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="J74Sf37dvSkozefG90Eq-13" target="J74Sf37dvSkozefG90Eq-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="98" y="420" as="sourcePoint" />
+            <mxPoint x="148" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
