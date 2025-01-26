@@ -50,10 +50,10 @@
           <mxGeometry x="98" y="248.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-13" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="180" y="390" width="50" height="50" as="geometry" />
+          <mxGeometry x="175" y="400" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="336.5" y="390" width="60" height="60" as="geometry" />
+          <mxGeometry x="330" y="400" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.479;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="J74Sf37dvSkozefG90Eq-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,7 +80,7 @@
           <mxGeometry x="28" y="60" width="60" height="54.6" as="geometry" />
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-23" value="&lt;div&gt;DAuth&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="21" y="28" width="60" height="30" as="geometry" />
+          <mxGeometry x="28" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -89,7 +89,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J74Sf37dvSkozefG90Eq-26" value="&lt;div&gt;Server&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="175" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J74Sf37dvSkozefG90Eq-27" value="&lt;div&gt;Mongo DB&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
