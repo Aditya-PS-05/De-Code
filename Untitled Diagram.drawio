@@ -76,6 +76,12 @@
             <mxPoint x="148" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="J74Sf37dvSkozefG90Eq-21" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_auth;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="60" height="54.6" as="geometry" />
+        </mxCell>
+        <mxCell id="J74Sf37dvSkozefG90Eq-22" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_auth;" vertex="1" parent="1">
+          <mxGeometry x="28" y="60" width="60" height="54.6" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
