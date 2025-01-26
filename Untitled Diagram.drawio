@@ -94,6 +94,9 @@
         <mxCell id="J74Sf37dvSkozefG90Eq-27" value="&lt;div&gt;Mongo DB&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="J74Sf37dvSkozefG90Eq-28" value="User Details " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
